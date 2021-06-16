@@ -21,7 +21,7 @@ export const getYourFeedArticles = params => {
     //   Authorization: `Token eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6NDgxMTYsInVzZXJuYW1lIjoibHB6OTk5IiwiZXhwIjoxNTk3NzQxNTA4fQ.2yO8Fss4hYnvsIN2UYHsutQ1hmYqSSAA-UrIRnP4DOY`
     // }
   })
-}
+}    
 
 // 添加点赞
 export const addFavorite = slug => {
